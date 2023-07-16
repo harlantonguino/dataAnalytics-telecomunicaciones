@@ -1,6 +1,6 @@
 # DataAnalyst_InternetFijo Argentina
 
-![HENRY](https://info.expeditors.com/hs-fs/hubfs/AdobeStock_335784628.jpeg?width=2750&name=AdobeStock_335784628.jpeg))
+![HENRY](https://info.expeditors.com/hs-fs/hubfs/AdobeStock_335784628.jpeg?width=2750&name=AdobeStock_335784628.jpeg)
 
 
 
@@ -82,6 +82,16 @@ optica y la tendencia de los accesos mayores a 30mbs pasando de 0.2% en 2014 a 6
 ### tabla2. relacion porcentual accesos por tecnlogias, accesos por velocidades
 ![Captura de pantalla 2023-07-16 002515](https://github.com/harlantonguino/DataAnalyst_InternetFijo/assets/9009541/9734e657-a727-419b-89e9-693a7291658e)
 
+### KPI's sugeridos
+
+#### 1. Acceso Hogar
+Aumentar 4.5 accesos por cada 100 hogares en el proximo año respecto al tercer trimestre del año 2022
+
+#### 2. Acceso por Fibra Optica
+Llegar al 50% de accesos medeiante fibra optica respecto a las otras tecnologias para el tercer trimestre del año 2023
+
+#### 3. Velocidad Media de Bajada
+Llegar al 80% de accesos con velocidad mayor a 30mbps respecto a las otras velocidades para el tercer timestre del año 2023
 
 ### DashBoard
 
