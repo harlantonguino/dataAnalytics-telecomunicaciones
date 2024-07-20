@@ -1,0 +1,7 @@
+https://datosabiertos.enacom.gob.ar
+Auth key:
+kPiA1Tds8eE6ov8kG0tQWZYW4B0AXfuTDKO5nk5f
+
+
+
+https://api.datosabiertos.enacom.gob.ar/api/v2/?auth_key=kPiA1Tds8eE6ov8kG0tQWZYW4B0AXfuTDKO5nk5f
